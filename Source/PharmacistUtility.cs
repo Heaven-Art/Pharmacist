@@ -18,7 +18,8 @@ namespace Pharmacist {
         Colonist,
         Prisoner,
         Guest,
-        Animal
+        Animal,
+        Slave
     }
 
     public static class PharmacistUtility {
@@ -81,12 +82,18 @@ namespace Pharmacist {
                 return Population.Animal;
             }
 
-            if (patient.IsColonist) {
-                return Population.Colonist;
-            }
-
             if (patient.IsPrisonerOfColony) {
                 return Population.Prisoner;
+            }
+
+            if (patient.IsSlaveOfColony)
+            {
+                return Population.Slave;
+            }
+
+            if (patient.IsFreeColonist)
+            {
+                return Population.Colonist;
             }
 
             return Population.Guest;

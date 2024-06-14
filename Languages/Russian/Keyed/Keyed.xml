@@ -11,6 +11,7 @@
 	<Fluffy.Pharmacist.Population.Prisoner>Заключенный</Fluffy.Pharmacist.Population.Prisoner>
 	<Fluffy.Pharmacist.Population.Animal>Животные</Fluffy.Pharmacist.Population.Animal>
 	<Fluffy.Pharmacist.Population.Guest>Гости</Fluffy.Pharmacist.Population.Guest>
+	<Fluffy.Pharmacist.Population.Slave>Рабы</Fluffy.Pharmacist.Population.Slave>
 
 	<Fluffy.Pharmacist.Severity.Minor>Небольшая травма</Fluffy.Pharmacist.Severity.Minor>
 	<Fluffy.Pharmacist.Severity.Major>Серьезная травма</Fluffy.Pharmacist.Severity.Major>

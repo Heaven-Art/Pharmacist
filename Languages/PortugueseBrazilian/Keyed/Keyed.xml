@@ -11,6 +11,7 @@
   <Fluffy.Pharmacist.Population.Prisoner>Prisioneiros</Fluffy.Pharmacist.Population.Prisoner>
   <Fluffy.Pharmacist.Population.Animal>Animais</Fluffy.Pharmacist.Population.Animal>
   <Fluffy.Pharmacist.Population.Guest>Hóspedes</Fluffy.Pharmacist.Population.Guest>
+	<Fluffy.Pharmacist.Population.Slave>Escravos</Fluffy.Pharmacist.Population.Slave>
 
   <Fluffy.Pharmacist.Severity.Minor>Feridas menores</Fluffy.Pharmacist.Severity.Minor>
   <Fluffy.Pharmacist.Severity.Major>principais feridas</Fluffy.Pharmacist.Severity.Major>

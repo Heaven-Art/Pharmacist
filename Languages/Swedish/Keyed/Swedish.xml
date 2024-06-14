@@ -11,6 +11,7 @@
   <Fluffy.Pharmacist.Population.Prisoner>Fångar</Fluffy.Pharmacist.Population.Prisoner>
   <Fluffy.Pharmacist.Population.Animal>Djur</Fluffy.Pharmacist.Population.Animal>
   <Fluffy.Pharmacist.Population.Guest>Gäster</Fluffy.Pharmacist.Population.Guest>
+  <Fluffy.Pharmacist.Population.Slave>Slavar</Fluffy.Pharmacist.Population.Slave>
 
   <Fluffy.Pharmacist.Severity.Minor>Mindre</Fluffy.Pharmacist.Severity.Minor>
   <Fluffy.Pharmacist.Severity.Major>Större</Fluffy.Pharmacist.Severity.Major>

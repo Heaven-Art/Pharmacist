@@ -11,6 +11,7 @@
   <Fluffy.Pharmacist.Population.Prisoner>죄수</Fluffy.Pharmacist.Population.Prisoner>
   <Fluffy.Pharmacist.Population.Animal>동물</Fluffy.Pharmacist.Population.Animal>
   <Fluffy.Pharmacist.Population.Guest>방문자</Fluffy.Pharmacist.Population.Guest>
+  <Fluffy.Pharmacist.Population.Slave>노예</Fluffy.Pharmacist.Population.Slave>
 
   <Fluffy.Pharmacist.Severity.Minor>경미한 부상</Fluffy.Pharmacist.Severity.Minor>
   <Fluffy.Pharmacist.Severity.Major>심각한 부상</Fluffy.Pharmacist.Severity.Major>

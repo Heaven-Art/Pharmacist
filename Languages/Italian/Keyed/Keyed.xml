@@ -11,6 +11,7 @@
   <Fluffy.Pharmacist.Population.Prisoner>Prigionieri</Fluffy.Pharmacist.Population.Prisoner>
   <Fluffy.Pharmacist.Population.Animal>Animali</Fluffy.Pharmacist.Population.Animal>
   <Fluffy.Pharmacist.Population.Guest>Ospiti</Fluffy.Pharmacist.Population.Guest>
+  <Fluffy.Pharmacist.Population.Slave>Schiavi</Fluffy.Pharmacist.Population.Slave>
 
   <Fluffy.Pharmacist.Severity.Minor>Ferite superficiali</Fluffy.Pharmacist.Severity.Minor>
   <Fluffy.Pharmacist.Severity.Major>Ferite profonde</Fluffy.Pharmacist.Severity.Major>

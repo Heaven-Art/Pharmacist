@@ -112,6 +112,12 @@ namespace Pharmacist {
                 MedicalCareCategory.HerbalOrWorse,
                 MedicalCareCategory.NormalOrWorse,
                 MedicalCareCategory.NormalOrWorse);
+
+            medicalCare[Population.Slave] = new PopulationCare(
+                MedicalCareCategory.NoMeds,
+                MedicalCareCategory.HerbalOrWorse,
+                MedicalCareCategory.NormalOrWorse,
+                MedicalCareCategory.NormalOrWorse);
         }
 
         public override void ExposeData() {

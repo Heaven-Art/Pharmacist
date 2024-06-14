@@ -11,6 +11,7 @@
 	<Fluffy.Pharmacist.Population.Prisoner>Gefangene</Fluffy.Pharmacist.Population.Prisoner>
 	<Fluffy.Pharmacist.Population.Animal>Tiere</Fluffy.Pharmacist.Population.Animal>
 	<Fluffy.Pharmacist.Population.Guest>Besucher</Fluffy.Pharmacist.Population.Guest>
+	<Fluffy.Pharmacist.Population.Slave>Sklaven</Fluffy.Pharmacist.Population.Slave>
 
 	<Fluffy.Pharmacist.Severity.Minor>Leichte Verletzung</Fluffy.Pharmacist.Severity.Minor>
 	<Fluffy.Pharmacist.Severity.Major>Schwere Verletzung</Fluffy.Pharmacist.Severity.Major>

@@ -11,6 +11,7 @@
   <Fluffy.Pharmacist.Population.Prisoner>囚犯</Fluffy.Pharmacist.Population.Prisoner>
   <Fluffy.Pharmacist.Population.Animal>动物</Fluffy.Pharmacist.Population.Animal>
   <Fluffy.Pharmacist.Population.Guest>访客</Fluffy.Pharmacist.Population.Guest>
+  <Fluffy.Pharmacist.Population.Slave>奴隶</Fluffy.Pharmacist.Population.Slave>
 
   <Fluffy.Pharmacist.Severity.Minor>轻度伤害</Fluffy.Pharmacist.Severity.Minor>
   <Fluffy.Pharmacist.Severity.Major>严重伤害</Fluffy.Pharmacist.Severity.Major>
